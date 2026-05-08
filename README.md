@@ -14,7 +14,11 @@ Usar variables no declarativas para organizar los pines usados
 Extra opcional: entre que se apaga un led y se prende el siguiente hacer que parpaden los 3 led 4 veces rapido (100ms) en color naranja.
 
 Juan Manuel Beltran Gimenez 4°1
+
 Gonzalo Consorti
+
 etjuanmanuelbeltran@gmail.com
+
 consor92@gmail.com
+
 https://www.tinkercad.com/things/eBjn24kg12D-proyecto-1-beltran?sharecode=-NLgWxMywZL1iZ5YCXDtco3sUtbj0PyTton6s_o_rh4
