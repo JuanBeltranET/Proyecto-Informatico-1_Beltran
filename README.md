@@ -3,8 +3,11 @@ En un museo, la protección de las obras de arte es fundamental para garantizar 
 
 
 (para detectar si alguien está tocando la obra, lo que podría generar un aumento de temperatura).
+
 (para detectar si alguien se acerca a la obra o la toca).
+
 (para activar el sistema solo de noche, cuando el museo está cerrado).
+
 (para asegurar que las personas no se acerquen demasiado a la obra de arte, evitando posibles daños).
 
 
@@ -23,5 +26,7 @@ Alerta: Si el nivel de luz es bajo y se detecta movimiento o calor cerca de la o
 Proximidad peligrosa (sensor de distancia):El sensor mide la distancia entre el sensor y las personas durante el dia que se acercan a la obra. Si alguien se acerca a menos de 1 metro de la obra, el sistema considera esto un riesgo de daño. Alerta: Si la distancia es menor a 1 metro, el LED RGB se pone rojo y el buzzer emite una secuencia de alarmas, alertando al personal de seguridad.
 
 Monitorización en tiempo real:Los valores de los sensores (temperatura, luz, movimiento y distancia) se envían constantemente a una pantalla LCD. Esto permite al personal de seguridad verificar el estado de la obra de arte en tiempo real.
+
 Juan Manuel Beltran Gimenez 4°1 | etjuanmanuelbeltran@gmail.com
+
 Gonzalo Consorti | consor92@gmail.com
