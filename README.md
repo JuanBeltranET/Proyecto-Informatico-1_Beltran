@@ -1,4 +1,4 @@
-# Proyecto-1_Beltran
+# TP-N°1-Escrituras
 
 SOLO USANDO TEMAS QUE VIMOS EN CLASE
 Desarrollar un código y un esquema electrónico básico que haga una secuencia de luces con 3 leds RGB.
