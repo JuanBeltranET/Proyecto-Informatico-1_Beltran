@@ -30,3 +30,5 @@ Monitorización en tiempo real:Los valores de los sensores (temperatura, luz, mo
 Juan Manuel Beltran Gimenez 4°1 | etjuanmanuelbeltran@gmail.com
 
 Gonzalo Consorti | consor92@gmail.com
+
+https://www.tinkercad.com/things/4md82sT7Bhd-tp-n3-sensores-lcd?sharecode=L1xv8C7a224WuMmXw5wP4YorLRE9HXcQ3z30CA272SY
