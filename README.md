@@ -8,8 +8,11 @@
 ( utilizar condicional compuesto)
 
 -Hacer prender un led RGB según la temperatura que mida el sensor:
+
 -rojo: si es más de 90°c
+
 -azul: si es menos de 18°c
+
 -verde: si está entre 18ºc y 90ºc
 
 (utilizar condicional compuesto y MAP invertido)
