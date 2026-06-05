@@ -15,4 +15,5 @@ siendo 100% TODA LA LUZ APAGADA
 Todos los pines deberán ser demarcados como variables constantes con nombres declarativo y los mensajes acortados con Macros
 
 Juan Manuel Beltran Gimenez 4°1 | etjuanmanuelbeltran@gmail.com
+
 Gonzalo Consorti | consor92@gmail.com
