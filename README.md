@@ -1,10 +1,8 @@
 # TP N°4 Uso de sensores + Monitor Serial
 -Leer datos que nos brinda un sensor de temperatura(TPM35) y uno de luz ambiental(LDR).
-
 -Mostrar esos 2 datos por el monitor serial con el siguiente formato:
 
-"El nivel de luz actual es:"  VALOR " y la temperatura actual:" VALOR  "ºc"   c/u en una linea distinta
-
+"El nivel de luz actual es:"  VALOR " y la temperatura actual:" VALOR  "ºc"   c/u en una linea distinta.
 ( utilizar condicional compuesto)
 
 -Hacer prender un led RGB según la temperatura que mida el sensor:
