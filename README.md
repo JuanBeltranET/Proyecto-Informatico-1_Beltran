@@ -17,8 +17,10 @@
 
 (utilizar condicional compuesto y MAP invertido)
 
--Solo se deberá prender el led como se indica arriba, siempre y cuando la luz ambiental este entre el 30% y 70%. 
+-Solo se deberá prender el led como se indica arriba, siempre y cuando la luz ambiental este entre el 30% y 70%.
+
 siendo 0%  TODA LA LUZ ENCENDIDA
+
 siendo 100% TODA LA LUZ APAGADA
 
 Todos los pines deberán ser demarcados como variables constantes con nombres declarativo y los mensajes acortados con Macros
