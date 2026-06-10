@@ -29,3 +29,4 @@ Juan Manuel Beltran Gimenez 4°1 | etjuanmanuelbeltran@gmail.com
 
 Gonzalo Consorti | consor92@gmail.com
 
+https://www.tinkercad.com/things/gpn9NzZn25N-tp-n4-uso-de-sensores-monitor-serial?sharecode=nm_Bdq32FDVAtsUabgzkbMQ4ScXA0N1_mce4zW6Yx8Y
